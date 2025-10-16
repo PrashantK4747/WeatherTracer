@@ -14,7 +14,7 @@ import java.util.*;
 import org.json.*;
 
 public class App {
-    private static final String WEATHER_API_KEY = "4088c7dc90c51913dfc2f2df80ed1a1e";
+    private static final String WEATHER_API_KEY = "Add Your Own OpenWeather API Key";
     private static final String WEATHER_API_URL = "https://api.openweathermap.org/data/2.5/forecast";
     private static final String NOMINATIM_URL = "https://nominatim.openstreetmap.org/search?q=%s&format=json&limit=1";
     private static final String IP_GEO_URL = "http://ip-api.com/json";
